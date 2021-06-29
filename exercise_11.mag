@@ -1,0 +1,18 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1624220331
+<< metal1 >>
+rect -1806 -293 2298 -165
+rect -1806 -4006 -1678 -293
+rect 2170 -4006 2298 -293
+rect -1806 -4134 2298 -4006
+<< metal2 >>
+rect -1640 -2123 152 -391
+rect 247 -2113 2072 -381
+rect -1640 -3950 152 -2218
+rect 256 -3931 2081 -2199
+<< labels >>
+flabel space -1085 381 -1085 381 0 FreeSans 1600 0 0 0 Exercise_11
+flabel space -1030 28 -1030 28 0 FreeSans 1600 0 0 0 Density_rules
+<< end >>

@@ -1,0 +1,49 @@
+magic
+tech sky130A
+timestamp 1624204507
+<< error_p >>
+rect 478 -75 484 -72
+rect 447 -78 487 -75
+rect 444 -81 490 -78
+rect 444 -84 453 -81
+rect -14 -92 1 -90
+rect 1 -107 3 -92
+rect 450 -109 453 -84
+rect 481 -84 490 -81
+rect 481 -109 487 -84
+rect 450 -112 487 -109
+rect 478 -115 487 -112
+rect 478 -118 484 -115
+<< locali >>
+rect 167 -83 264 -71
+rect -22 -92 8 -85
+rect -22 -107 -14 -92
+rect 1 -107 8 -92
+rect -22 -114 8 -107
+rect 167 -161 181 -83
+rect 251 -161 264 -83
+rect 167 -172 264 -161
+<< viali >>
+rect -14 -107 1 -92
+rect 181 -161 251 -83
+rect 450 -112 484 -78
+<< metal1 >>
+rect 167 -83 264 -71
+rect -22 -92 8 -85
+rect -22 -107 -14 -92
+rect 1 -107 8 -92
+rect -22 -114 8 -107
+rect 167 -161 181 -83
+rect 251 -161 264 -83
+rect 744 -119 779 -83
+rect 167 -172 264 -161
+<< labels >>
+flabel space -16 8 -16 8 0 FreeSans 160 0 0 0 Exercise_2a
+flabel space -7 -37 -7 -37 0 FreeSans 160 0 0 0 Via_size
+flabel space 220 7 220 7 0 FreeSans 160 0 0 0 Exercise_2b
+flabel space 219 -33 219 -33 0 FreeSans 160 0 0 0 Multiple_vias
+flabel space 474 2 474 2 0 FreeSans 160 0 0 0 Exercise_2c
+flabel space 469 -34 469 -34 0 FreeSans 160 0 0 0 Via_overlap
+flabel space 770 -2 770 -2 0 FreeSans 160 0 0 0 Exercise_2d
+flabel space 767 -33 767 -33 0 FreeSans 160 0 0 0 Auto_generate_via
+<< end >>

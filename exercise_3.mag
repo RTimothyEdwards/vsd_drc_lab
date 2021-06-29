@@ -1,0 +1,20 @@
+magic
+tech sky130A
+timestamp 1624204189
+<< error_p >>
+rect 8 295 51 341
+rect 506 272 532 298
+<< metal1 >>
+rect 441 298 596 349
+rect 441 272 506 298
+rect 532 272 596 298
+rect 441 221 596 272
+<< metal4 >>
+rect 8 295 51 341
+<< labels >>
+flabel space 35 456 35 456 0 FreeSans 160 0 0 0 Exercise_3a
+flabel space 32 414 32 414 0 FreeSans 160 0 0 0 Minimum_area_rule
+flabel space 521 472 521 472 0 FreeSans 160 0 0 0 Exercise_3b
+flabel space 509 422 509 422 0 FreeSans 160 0 0 0 Minimum_hole_rule
+flabel space 500 167 500 167 0 FreeSans 160 0 0 0 *must_use_drc_style_sky130(full)*
+<< end >>
